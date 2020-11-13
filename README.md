@@ -53,14 +53,14 @@ IT の現場には、常にわからないこと、新しいことが出てく�
 
 以下のページで「認定によって検証される能力」「推奨される知識と経験」を確認する。
 
-参照リンク：AWS 認定 クラウドプラクティショナー
+参照リンク：AWS 認定 クラウドプラクティショナー  
 https://aws.amazon.com/jp/certification/certified-cloud-practitioner/
 
 ## 試験準備ページ
 
 以下のページには AWS 認定試験準備のための参考資料が揃えられている。
 
-参照リンク：AWS 認定試験に備える
+参照リンク：AWS 認定試験に備える  
 https://aws.amazon.com/jp/certification/certification-prep/
 
 このページのセクション「AWS 認定基礎レベル」に、クラウドプラクティショナー認定試験に関する参考資料がまとめられている。
@@ -75,21 +75,21 @@ https://aws.amazon.com/jp/certification/certification-prep/
 
 以下の試験ガイド PDF を読んで、試験の「形式」「概要」「出題範囲」を把握する。
 
-参照リンク：試験ガイド PDF
+参照リンク：試験ガイド PDF  
 https://d1.awsstatic.com/ja_JP/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
 
 ## 受験方法を知る
 
 以下のページには、「試験会場」「試験監督」などの受験方法の詳細が書いてあるので、読んでイメージを把握する。
 
-参照リンク：AWS 認定試験の受験方法
+参照リンク：AWS 認定試験の受験方法  
 https://aws.amazon.com/jp/certification/certification-prep/testing/
 
 ### サンプル問題
 
 事前に AWS の知識が少しでもある場合は、最初のサンプル問題として以下の PDF で問題を解いてみる。
 
-参照リンク：(CLF-C01) 認定試験の質問例 PDF
+参照リンク：(CLF-C01) 認定試験の質問例 PDF  
 https://d1.awsstatic.com/ja_JP/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf
 
 ## AWS ラーニングパス
@@ -101,7 +101,7 @@ AWS ラーニングパスとして以下の無料教材が用意されている�
 
 特別な技術的経験がなくても、このデジタルコースを受講することで、AWS クラウドについての全体的な理解を得ることができる。
 
-参照リンク：AWS クラウドプラクティショナーの基礎知識 (第 2 版) | デジタル
+参照リンク：AWS クラウドプラクティショナーの基礎知識 (第 2 版) | デジタル  
 https://aws.amazon.com/jp/training/course-descriptions/cloud-practitioner-essentials/
 
 #### 学習内容
@@ -121,26 +121,26 @@ https://aws.amazon.com/jp/training/course-descriptions/cloud-practitioner-essent
 
 ### アマゾン ウェブ サービスの概要
 
-参照リンク：アマゾン ウェブ サービスの概要 PDF
+参照リンク：アマゾン ウェブ サービスの概要 PDF  
 https://d1.awsstatic.com/whitepapers/ja_JP/aws-overview.pdf
 
 ### AWS 料金体系の仕組み
 
-参照リンク：AWS 料金体系の仕組み PDF
+参照リンク：AWS 料金体系の仕組み PDF  
 https://d1.awsstatic.com/International/ja_JP/Whitepapers/aws_pricing_overview_JP.pdf
 
 ### AWS サポートのプラン比較
 
-参照リンク：AWS サポートのプラン比較
+参照リンク：AWS サポートのプラン比較  
 https://aws.amazon.com/jp/premiumsupport/plans/
 
 ### AWS Well-Architected フレームワーク
 
 すべてを読む必要はないが、以下の資料をざっと読んで知識の肉付けをおこなっておく。
 
-参照リンク：AWS Well-Architected フレームワーク PDF
+参照リンク：AWS Well-Architected フレームワーク PDF  
 https://d1.awsstatic.com/whitepapers/ja_JP/architecture/AWS_Well-Architected_Framework.pdf
 
 ## AWS認定クラウドプラクティショナー取得のために知っておくべきサービス
-サービスを押さえておく。
+サービスを押さえておく。  
 https://toronavi.com/aws-practitioner-service
